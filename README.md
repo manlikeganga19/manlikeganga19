@@ -2,16 +2,15 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manlikeganga19" alt="manlikeganga19" /></a> </p>
 
-- 🌱 I’m currently learning **Frameworks**
+- 🌱 I’m currently learning **machine learning**
 
-- 👨‍💻 All of my projects are available at [https://my-personal-portfolio-lmlb7x1jc-manlikeganga19.vercel.app/](https://my-personal-portfolio-lmlb7x1jc-manlikeganga19.vercel.app/)
+- 👨‍💻 All of my projects are available at ([https://my-personal-portfolio-lmlb7x1jc-manlikeganga19.vercel.app/](https://dan-dev.onrender.com/))
 
-- 💬 Ask me about **react, js, tailwind CSS, CSS, HTML, python, java, C, Flask, MySQL**
+- 💬 Ask me about **react, js, tailwind CSS, CSS, HTML, python, Flask, nextJs**
 
 - 📫 How to reach me **orwenjodaniel19@gmail.com**
 
-- ⚡ Fun fact **The term "bug" to describe a programming error dates back to the early days of computing. In 1947, Grace Hopper, a computer scientist and one of the pioneers of computer programming, found a moth inside the Harvard Mark II computer. The moth had caused a malfunction, and she famously remarked in her logbook, "First actual case of bug being found." This incident is often cited as the origin of the term "bug" in the context of computer programming, and it's why we still refer to coding errors as "bugs" today.**
-
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
